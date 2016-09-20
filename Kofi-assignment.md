@@ -17,7 +17,7 @@ Here are a list of things I like:
 I will like to rate myself  according to the level of interest i have in some of the things i like to do have **1-5**.
 
 |Photoshop|Basketball|dance|Music|
-|----|-----|
+|----|-----|-----|------|
 |4|4|3|5|
 
 
